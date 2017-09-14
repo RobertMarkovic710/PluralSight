@@ -5,3 +5,9 @@ C:\Users\Mono\Desktop\GradesBook\PluralSight\Grades\Grades\bin\Debug\Grades.pdb
 C:\Users\Mono\Desktop\GradesBook\PluralSight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 C:\Users\Mono\Desktop\GradesBook\PluralSight\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\Mono\Desktop\GradesBook\PluralSight\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Robert\Documents\GitHub\PluralSight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
